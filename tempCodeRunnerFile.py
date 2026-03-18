@@ -1,0 +1,1 @@
+speak("while the 2nd part Recommend items to users based on purchase history and similarity of ratings provided by other users who bought items to that of a particular customer.if a customer has a history the products are recommended based on their type their needs n later based on similar users purchase")
